@@ -1,0 +1,6 @@
+title: HACKˢᵗ
+description: Security and stuff
+theme: jekyll-theme-chirpy
+baseurl: ""  # or "/repo-name" if it's a project site
+url: "https://hack.st"
+lang: en
